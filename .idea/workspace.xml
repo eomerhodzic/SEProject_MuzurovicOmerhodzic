@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1583b87c-d714-4bb1-bc5a-5577679ab344" name="Default Changelist" comment="" />
+    <list default="true" id="1583b87c-d714-4bb1-bc5a-5577679ab344" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oNama.html" beforeDir="false" afterPath="$PROJECT_DIR$/oNama.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+            <state relative-caret-position="60">
+              <caret line="4" column="55" selection-end-line="32" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -29,15 +34,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pocetna.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="46" column="18" lean-forward="true" selection-end-line="92" selection-end-column="7" />
+            <state relative-caret-position="222">
+              <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#2544#2550#0" expanded="true" />
@@ -48,39 +48,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oNama.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="7" lean-forward="true" selection-end-line="128" selection-end-column="7" />
+            <state relative-caret-position="222">
+              <caret line="67" column="79" selection-start-line="67" selection-start-column="79" selection-end-line="67" selection-end-column="79" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project.mobirise">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>mbpa</find>
+      <find>moj pregled.ba</find>
       <find>mobiri</find>
       <find>additional</find>
-      <find>mbpa</find>
+      <find>mobi</find>
       <find>mobirise</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pocetna.html" />
+        <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/oNama.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -97,14 +95,24 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SeProjekat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeProjekat" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556967580635" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556968528953" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -133,15 +141,16 @@
       <option name="presentableId" value="Default" />
       <updated>1556964173862</updated>
       <workItem from="1556964175857" duration="163000" />
-      <workItem from="1556966012852" duration="1559000" />
+      <workItem from="1556966012852" duration="1889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1722000" />
+    <option name="totallyTimeSpent" value="2052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="117" y="23" width="1144" height="834" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25408348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -186,12 +195,9 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        <state relative-caret-position="222">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -204,8 +210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pocetna.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="46" column="18" lean-forward="true" selection-end-line="92" selection-end-column="7" />
+        <state relative-caret-position="222">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#2544#2550#0" expanded="true" />
@@ -217,8 +223,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oNama.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="7" lean-forward="true" selection-end-line="128" selection-end-column="7" />
+        <state relative-caret-position="222">
+          <caret line="67" column="79" selection-start-line="67" selection-start-column="79" selection-end-line="67" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="55" selection-end-line="32" selection-end-column="7" />
         </state>
       </provider>
     </entry>
