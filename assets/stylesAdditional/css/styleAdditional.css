@@ -28,21 +28,21 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Poppins-Bold', sans-serif;
-  font-size: 2rem;
+  font-family: 'Poppins-Medium', sans-serif;
+  font-size: 1.8rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 3.2rem;
 }
 .display-4 {
-  font-family: 'Poppins-Bold', sans-serif;
-  font-size: 1.0rem;
+  font-family: 'Poppins-Medium', sans-serif;
+  font-size: 1.3rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Poppins-Bold', sans-serif;
+  font-family: 'Poppins-Regular', sans-serif;
   font-size: 1.4rem;
 }
 .display-5 > .mbr-iconfont {
@@ -85,9 +85,9 @@ body {
 /* Buttons */
 .btn {
   font-weight: 500;
-  border-width: 2px;
+  border-width: 1.7px;
   font-style: normal;
-  letter-spacing: 1px;
+  letter-spacing: 1.2px;
   margin: .4rem .8rem;
   white-space: normal;
   -webkit-transition: all 0.3s ease-in-out;
@@ -115,11 +115,11 @@ body {
 .btn-md {
   font-weight: 500;
   letter-spacing: 1px;
-  margin: .4rem .8rem !important;
+  margin: 0rem 0rem !important;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  padding: 1rem 3rem;
+  padding: 1rem 2.5rem;
   border-radius: 3px;
 }
 .btn-lg {

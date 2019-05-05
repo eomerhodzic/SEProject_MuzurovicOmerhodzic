@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1583b87c-d714-4bb1-bc5a-5577679ab344" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginFormaFinal.html" beforeDir="false" afterPath="$PROJECT_DIR$/LoginFormaFinal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pocetna.html" beforeDir="false" afterPath="$PROJECT_DIR$/pocetna.html" afterDir="false" />
     </list>
@@ -31,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LoginFormaFinal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="86" column="91" selection-start-line="86" selection-start-column="91" selection-end-line="86" selection-end-column="91" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="21" selection-end-column="102" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#3840#3846#0" expanded="true" />
@@ -42,71 +43,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cssZaLoginForm/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" selection-end-line="461" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="1601" selection-start-line="5" selection-start-column="1601" selection-end-line="5" selection-end-column="1601" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="42" lean-forward="true" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cssZaLoginForm/util.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/web/assets/icons/icons.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap-reboot.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap-grid.min.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pocetna.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="69" column="117" selection-end-line="91" selection-end-column="7" />
+            <state relative-caret-position="487">
+              <caret line="102" column="58" lean-forward="true" selection-start-line="102" selection-start-column="58" selection-end-line="102" selection-end-column="58" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#2446#2452#0" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#h3#0;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -114,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oNama.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1335">
-              <caret line="89" column="107" selection-start-line="89" selection-start-column="107" selection-end-line="89" selection-end-column="107" />
+            <state relative-caret-position="627">
+              <caret line="121" column="19" selection-end-line="2674" />
             </state>
           </provider>
         </entry>
@@ -127,11 +70,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>moj pregled.ba</find>
-      <find>mobiri</find>
-      <find>additional</find>
-      <find>mobi</find>
-      <find>mojpregled</find>
       <find>login.h</find>
       <find>src</find>
       <find>index.h</find>
@@ -157,6 +95,11 @@
       <find>button</find>
       <find>b, strong</find>
       <find>login</find>
+      <find>on</find>
+      <find>moj</find>
+      <find>o nama</find>
+      <find>upozna</find>
+      <find>svi</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -171,10 +114,10 @@
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/assets/web/assets/icons/icons.css" />
         <option value="$PROJECT_DIR$/cssZaLoginForm/main.css" />
-        <option value="$PROJECT_DIR$/LoginFormaFinal.html" />
         <option value="$PROJECT_DIR$/oNama.html" />
-        <option value="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" />
+        <option value="$PROJECT_DIR$/LoginFormaFinal.html" />
         <option value="$PROJECT_DIR$/pocetna.html" />
+        <option value="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" />
       </list>
     </option>
   </component>
@@ -287,12 +230,12 @@
       <updated>1556964173862</updated>
       <workItem from="1556964175857" duration="163000" />
       <workItem from="1556966012852" duration="15588000" />
-      <workItem from="1557068982648" duration="520000" />
+      <workItem from="1557068982648" duration="2150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16271000" />
+    <option name="totallyTimeSpent" value="17901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="149" y="24" width="1291" height="834" extended-state="0" />
@@ -354,13 +297,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.html" />
-    <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="1601" selection-start-line="5" selection-start-column="1601" selection-end-line="5" selection-end-column="1601" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cssZaLoginForm/util.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -385,10 +321,10 @@
     <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap-grid.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/oNama.html">
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="107" selection-start-line="89" selection-start-column="107" selection-end-line="89" selection-end-column="107" />
+        <state relative-caret-position="285">
+          <caret line="5" column="1601" selection-start-line="5" selection-start-column="1601" selection-end-line="5" selection-end-column="1601" />
         </state>
       </provider>
     </entry>
@@ -399,17 +335,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css">
+    <entry file="file://$PROJECT_DIR$/oNama.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="42" lean-forward="true" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+        <state relative-caret-position="257">
+          <caret line="89" column="107" selection-start-line="89" selection-start-column="107" selection-end-line="89" selection-end-column="107" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LoginFormaFinal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="86" column="91" selection-start-line="86" selection-start-column="91" selection-end-line="86" selection-end-column="91" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="21" selection-end-column="102" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#3840#3846#0" expanded="true" />
@@ -419,13 +355,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pocetna.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="69" column="117" selection-end-line="91" selection-end-column="7" />
+        <state relative-caret-position="487">
+          <caret line="102" column="58" lean-forward="true" selection-start-line="102" selection-start-column="58" selection-end-line="102" selection-end-column="58" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2446#2452#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#h3#0;n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="121" column="19" selection-end-line="2674" />
         </state>
       </provider>
     </entry>
