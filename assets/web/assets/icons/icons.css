@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'MobiriseIcons';
+  font-family: 'Poppins-Medium ';
   src:  url('icons.eot?spat4u');
   src:  url('icons.eot?spat4u#iefix') format('embedded-opentype'),
     url('icons.ttf?spat4u') format('truetype'),
@@ -11,10 +11,10 @@
 
 [class^="mbri-"], [class*=" mbri-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: MobiriseIcons !important;
+  font-family: Poppins-Medium !important;
   speak: none;
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   font-variant: normal;
   text-transform: none;
   line-height: 1;
