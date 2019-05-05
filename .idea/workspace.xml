@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1583b87c-d714-4bb1-bc5a-5577679ab344" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pocetna.html" beforeDir="false" afterPath="$PROJECT_DIR$/pocetna.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pocetna.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="102" column="58" lean-forward="true" selection-start-line="102" selection-start-column="58" selection-end-line="102" selection-end-column="58" />
+            <state relative-caret-position="585">
+              <caret line="98" column="62" lean-forward="true" selection-start-line="98" selection-start-column="62" selection-end-line="98" selection-end-column="62" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#2446#2452#0" expanded="true" />
@@ -57,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="45" column="16" selection-end-line="2674" />
+            <state relative-caret-position="423">
+              <caret line="1824" column="19" lean-forward="true" selection-end-line="2674" />
             </state>
           </provider>
         </entry>
@@ -67,7 +68,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>login.h</find>
       <find>src</find>
       <find>index.h</find>
       <find>usernam</find>
@@ -96,6 +96,7 @@
       <find>moj</find>
       <find>o nama</find>
       <find>upozna</find>
+      <find>display-4</find>
       <find>svi</find>
     </findStrings>
   </component>
@@ -119,8 +120,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="149" />
-    <option name="y" value="24" />
+    <option name="x" value="290" />
+    <option name="y" value="23" />
     <option name="width" value="1291" />
     <option name="height" value="834" />
   </component>
@@ -183,6 +184,10 @@
               <item name="SeProjekat" type="462c0819:PsiDirectoryNode" />
               <item name="cssZaLoginForm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SeProjekat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -227,15 +232,15 @@
       <updated>1556964173862</updated>
       <workItem from="1556964175857" duration="163000" />
       <workItem from="1556966012852" duration="15588000" />
-      <workItem from="1557068982648" duration="2353000" />
+      <workItem from="1557068982648" duration="3598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18104000" />
+    <option name="totallyTimeSpent" value="19349000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="149" y="24" width="1291" height="834" extended-state="0" />
+    <frame x="290" y="23" width="1291" height="834" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865228" visible="true" weight="0.26741394" />
@@ -352,8 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pocetna.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="102" column="58" lean-forward="true" selection-start-line="102" selection-start-column="58" selection-end-line="102" selection-end-column="58" />
+        <state relative-caret-position="585">
+          <caret line="98" column="62" lean-forward="true" selection-start-line="98" selection-start-column="62" selection-end-line="98" selection-end-column="62" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#2446#2452#0" expanded="true" />
@@ -365,8 +370,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="45" column="16" selection-end-line="2674" />
+        <state relative-caret-position="423">
+          <caret line="1824" column="19" lean-forward="true" selection-end-line="2674" />
         </state>
       </provider>
     </entry>
