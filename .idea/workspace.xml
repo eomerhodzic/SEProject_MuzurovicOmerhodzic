@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1583b87c-d714-4bb1-bc5a-5577679ab344" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LoginFormaFinal.html" beforeDir="false" afterPath="$PROJECT_DIR$/LoginFormaFinal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cssZaLoginForm/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/cssZaLoginForm/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oNama.html" beforeDir="false" afterPath="$PROJECT_DIR$/oNama.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,19 +28,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LoginFormaFinal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="66" column="60" selection-end-line="148" selection-end-column="7" />
+            <state relative-caret-position="351">
+              <caret line="80" column="58" lean-forward="true" selection-start-line="80" selection-start-column="58" selection-end-line="80" selection-end-column="58" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#3840#3846#0" expanded="true" />
@@ -51,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cssZaLoginForm/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="49" lean-forward="true" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+            <state relative-caret-position="270">
+              <caret line="18" column="30" lean-forward="true" selection-end-line="461" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -63,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="5" column="6954" lean-forward="true" selection-start-line="5" selection-start-column="6954" selection-end-line="5" selection-end-column="6954" />
+            <state relative-caret-position="285">
+              <caret line="5" column="1601" selection-start-line="5" selection-start-column="1601" selection-end-line="5" selection-end-column="1601" />
             </state>
           </provider>
         </entry>
@@ -72,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+            <state relative-caret-position="250">
+              <caret line="51" column="42" lean-forward="true" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -100,9 +89,14 @@
         <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap-reboot.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+              <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap-grid.min.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -122,8 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oNama.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+            <state relative-caret-position="257">
+              <caret line="89" column="107" lean-forward="true" selection-start-line="89" selection-start-column="107" selection-end-line="89" selection-end-column="107" />
             </state>
           </provider>
         </entry>
@@ -143,7 +137,6 @@
       <find>index.h</find>
       <find>usernam</find>
       <find>br</find>
-      <find>button</find>
       <find>form</find>
       <find>log in</find>
       <find>title</find>
@@ -160,6 +153,9 @@
       <find>roboto</find>
       <find>960</find>
       <find>tim</find>
+      <find>naš tim</find>
+      <find>button</find>
+      <find>b, strong</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -169,21 +165,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/oNama.html" />
         <option value="$PROJECT_DIR$/assets/theme/css/style.css" />
         <option value="$PROJECT_DIR$/assets/bootstrap/css/bootstrap-reboot.min.css" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/assets/web/assets/icons/icons.css" />
         <option value="$PROJECT_DIR$/pocetna.html" />
         <option value="$PROJECT_DIR$/cssZaLoginForm/main.css" />
-        <option value="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" />
         <option value="$PROJECT_DIR$/LoginFormaFinal.html" />
+        <option value="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" />
+        <option value="$PROJECT_DIR$/oNama.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="118" />
-    <option name="y" value="42" />
+    <option name="x" value="156" />
+    <option name="y" value="114" />
     <option name="width" value="1291" />
     <option name="height" value="834" />
   </component>
@@ -222,6 +218,27 @@
             <path>
               <item name="SeProjekat" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeProjekat" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeProjekat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeProjekat" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeProjekat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeProjekat" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeProjekat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeProjekat" type="462c0819:PsiDirectoryNode" />
               <item name="cssZaLoginForm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -234,7 +251,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557066763792" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557067734520" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -268,15 +285,15 @@
       <option name="presentableId" value="Default" />
       <updated>1556964173862</updated>
       <workItem from="1556964175857" duration="163000" />
-      <workItem from="1556966012852" duration="14451000" />
+      <workItem from="1556966012852" duration="15256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14614000" />
+    <option name="totallyTimeSpent" value="15419000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="42" width="1291" height="834" extended-state="0" />
+    <frame x="156" y="114" width="1291" height="834" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865228" visible="true" weight="0.26341072" />
@@ -356,13 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap-reboot.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pocetna.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -382,42 +392,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/LoginFormaFinal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="5" column="6954" lean-forward="true" selection-start-line="5" selection-start-column="6954" selection-end-line="5" selection-end-column="6954" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oNama.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cssZaLoginForm/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="49" lean-forward="true" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        <state relative-caret-position="351">
+          <caret line="80" column="58" lean-forward="true" selection-start-line="80" selection-start-column="58" selection-end-line="80" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3840#3846#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        <state relative-caret-position="250">
+          <caret line="51" column="42" lean-forward="true" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LoginFormaFinal.html">
+    <entry file="file://$PROJECT_DIR$/oNama.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="66" column="60" selection-end-line="148" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3840#3846#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="257">
+          <caret line="89" column="107" lean-forward="true" selection-start-line="89" selection-start-column="107" selection-end-line="89" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap-reboot.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap-grid.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="5" column="1601" selection-start-line="5" selection-start-column="1601" selection-end-line="5" selection-end-column="1601" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cssZaLoginForm/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="30" lean-forward="true" selection-end-line="461" selection-end-column="1" />
         </state>
       </provider>
     </entry>
