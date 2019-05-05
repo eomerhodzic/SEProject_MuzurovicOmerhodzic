@@ -36,7 +36,7 @@ body {
 }
 .display-4 {
   font-family: 'Poppins-Bold', sans-serif;
-  font-size: 1rem;
+  font-size: 1.7rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
@@ -2323,7 +2323,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rpp2DnfGeZ .dropdown .dropdown-menu {
-  background: #c8daf2;
+  background: #c1babe;
   display: none;
   position: absolute;
   min-width: 5rem;
