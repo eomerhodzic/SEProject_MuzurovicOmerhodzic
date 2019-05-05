@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1583b87c-d714-4bb1-bc5a-5577679ab344" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pocetna.html" beforeDir="false" afterPath="$PROJECT_DIR$/pocetna.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="1824" column="19" lean-forward="true" selection-end-line="2674" />
+            <state relative-caret-position="25497">
+              <caret line="1920" column="21" lean-forward="true" selection-end-line="2674" />
             </state>
           </provider>
         </entry>
@@ -232,12 +231,12 @@
       <updated>1556964173862</updated>
       <workItem from="1556964175857" duration="163000" />
       <workItem from="1556966012852" duration="15588000" />
-      <workItem from="1557068982648" duration="3598000" />
+      <workItem from="1557068982648" duration="3846000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19349000" />
+    <option name="totallyTimeSpent" value="19597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="290" y="23" width="1291" height="834" extended-state="0" />
@@ -370,8 +369,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="1824" column="19" lean-forward="true" selection-end-line="2674" />
+        <state relative-caret-position="25497">
+          <caret line="1920" column="21" lean-forward="true" selection-end-line="2674" />
         </state>
       </provider>
     </entry>
