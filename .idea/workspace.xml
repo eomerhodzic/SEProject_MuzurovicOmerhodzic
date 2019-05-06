@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1583b87c-d714-4bb1-bc5a-5577679ab344" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oNama.html" beforeDir="false" afterPath="$PROJECT_DIR$/oNama.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pocetna.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="98" column="62" lean-forward="true" selection-start-line="98" selection-start-column="62" selection-end-line="98" selection-end-column="62" />
+            <state relative-caret-position="60">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="20" selection-end-column="106" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#2446#2452#0" expanded="true" />
@@ -54,11 +55,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25497">
-              <caret line="1920" column="21" lean-forward="true" selection-end-line="2674" />
+            <state relative-caret-position="175">
+              <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oNama.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="123" column="129" lean-forward="true" selection-end-line="141" selection-end-column="7" />
+              <folding>
+                <element signature="e#2544#2550#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,7 +89,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>src</find>
       <find>index.h</find>
       <find>usernam</find>
       <find>br</find>
@@ -95,8 +116,9 @@
       <find>moj</find>
       <find>o nama</find>
       <find>upozna</find>
-      <find>display-4</find>
       <find>svi</find>
+      <find>button</find>
+      <find>display-4</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -111,16 +133,16 @@
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/assets/web/assets/icons/icons.css" />
         <option value="$PROJECT_DIR$/cssZaLoginForm/main.css" />
-        <option value="$PROJECT_DIR$/oNama.html" />
         <option value="$PROJECT_DIR$/LoginFormaFinal.html" />
         <option value="$PROJECT_DIR$/pocetna.html" />
         <option value="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" />
+        <option value="$PROJECT_DIR$/oNama.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="290" />
-    <option name="y" value="23" />
+    <option name="x" value="22" />
+    <option name="y" value="33" />
     <option name="width" value="1291" />
     <option name="height" value="834" />
   </component>
@@ -156,32 +178,6 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="stylesAdditional" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeProjekat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeProjekat" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeProjekat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeProjekat" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeProjekat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeProjekat" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="icons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeProjekat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeProjekat" type="462c0819:PsiDirectoryNode" />
-              <item name="cssZaLoginForm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeProjekat" type="b2602c69:ProjectViewProjectNode" />
@@ -231,15 +227,15 @@
       <updated>1556964173862</updated>
       <workItem from="1556964175857" duration="163000" />
       <workItem from="1556966012852" duration="15588000" />
-      <workItem from="1557068982648" duration="3846000" />
+      <workItem from="1557068982648" duration="5313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19597000" />
+    <option name="totallyTimeSpent" value="21064000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="290" y="23" width="1291" height="834" extended-state="0" />
+    <frame x="22" y="33" width="1291" height="834" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865228" visible="true" weight="0.26741394" />
@@ -290,13 +286,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Login_v1/index.html" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login.html" />
     <entry file="file://$PROJECT_DIR$/cssZaLoginForm/util.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -336,13 +325,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oNama.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="89" column="107" selection-start-line="89" selection-start-column="107" selection-end-line="89" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LoginFormaFinal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -354,10 +336,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docsZaDashboard/documentation.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pocetna.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="98" column="62" lean-forward="true" selection-start-line="98" selection-start-column="62" selection-end-line="98" selection-end-column="62" />
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="20" selection-end-column="106" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#span#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#2446#2452#0" expanded="true" />
@@ -369,8 +361,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25497">
-          <caret line="1920" column="21" lean-forward="true" selection-end-line="2674" />
+        <state relative-caret-position="175">
+          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oNama.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="123" column="129" lean-forward="true" selection-end-line="141" selection-end-column="7" />
+          <folding>
+            <element signature="e#2544#2550#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

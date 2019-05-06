@@ -35,14 +35,14 @@ body {
   font-size: 3.2rem;
 }
 .display-4 {
-  font-family: 'Poppins-Medium', sans-serif;
+  font-family: 'Poppins-Bold', sans-serif;
   font-size: 1.3rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Poppins-Regular', sans-serif;
+  font-family: 'Poppins-Bold', sans-serif;
   font-size: 1.2rem;
 }
 .display-5 > .mbr-iconfont {
