@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1583b87c-d714-4bb1-bc5a-5577679ab344" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/stylesAdditional/css/styleAdditional.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oNama.html" beforeDir="false" afterPath="$PROJECT_DIR$/oNama.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/oNama.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="123" column="129" lean-forward="true" selection-end-line="141" selection-end-column="7" />
+            <state relative-caret-position="102">
+              <caret line="87" column="107" selection-end-line="141" selection-end-column="7" />
               <folding>
                 <element signature="e#2544#2550#0" expanded="true" />
               </folding>
@@ -227,12 +226,12 @@
       <updated>1556964173862</updated>
       <workItem from="1556964175857" duration="163000" />
       <workItem from="1556966012852" duration="15588000" />
-      <workItem from="1557068982648" duration="5313000" />
+      <workItem from="1557068982648" duration="5468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21064000" />
+    <option name="totallyTimeSpent" value="21219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="33" width="1291" height="834" extended-state="0" />
@@ -368,8 +367,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oNama.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="123" column="129" lean-forward="true" selection-end-line="141" selection-end-column="7" />
+        <state relative-caret-position="102">
+          <caret line="87" column="107" selection-end-line="141" selection-end-column="7" />
           <folding>
             <element signature="e#2544#2550#0" expanded="true" />
           </folding>
