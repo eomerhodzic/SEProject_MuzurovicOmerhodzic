@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MojPregledModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Checkup">
+    <Key>
+      <PropertyRef Name="checkup_id" />
+    </Key>
+    <Property Name="checkup_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="doctor_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="therapy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="medicaments" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Comment">
+    <Key>
+      <PropertyRef Name="comment_id" />
+    </Key>
+    <Property Name="comment_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="comment1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="comment_rate" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Doctor">
+    <Key>
+      <PropertyRef Name="doctor_id" />
+    </Key>
+    <Property Name="doctor_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="doctor_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="doctor_surname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="doctor_dateofbirh" Type="DateTime" Precision="0" />
+    <Property Name="doctor_city" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="doctor_speciality" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="doctor_phonenumber" Type="Decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="Hospital">
+    <Key>
+      <PropertyRef Name="hospital_id" />
+    </Key>
+    <Property Name="hospital_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="hospital_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="hospital_address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="hospital_city" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="number_of_doctors" Type="Int32" />
+    <Property Name="number_of_patients" Type="Int32" />
+    <Property Name="capacity" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Medicine">
+    <Key>
+      <PropertyRef Name="medicines_id" />
+    </Key>
+    <Property Name="medicines_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="patient_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="doctor_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="quantity" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Patient">
+    <Key>
+      <PropertyRef Name="patient_id" />
+    </Key>
+    <Property Name="patient_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="patient_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="patient_surname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="patient_dateofbirth" Type="DateTime" Precision="0" />
+    <Property Name="patient_address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="patient_phonenumber" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="patient_city" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Reminder">
+    <Key>
+      <PropertyRef Name="reminder_id" />
+    </Key>
+    <Property Name="reminder_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="date_of_previous_checkup" Type="DateTime" Precision="0" />
+    <Property Name="date_of_next_checkup" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="MojPregledEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Checkups" EntityType="Self.Checkup" />
+    <EntitySet Name="Comments" EntityType="Self.Comment" />
+    <EntitySet Name="Doctors" EntityType="Self.Doctor" />
+    <EntitySet Name="Hospitals" EntityType="Self.Hospital" />
+    <EntitySet Name="Medicines" EntityType="Self.Medicine" />
+    <EntitySet Name="Patients" EntityType="Self.Patient" />
+    <EntitySet Name="Reminders" EntityType="Self.Reminder" />
+  </EntityContainer>
+</Schema>

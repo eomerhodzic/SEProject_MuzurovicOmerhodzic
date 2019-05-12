@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MojPregledModelStoreContainer" CdmEntityContainer="MojPregledEntities">
+    <EntitySetMapping Name="Checkups">
+      <EntityTypeMapping TypeName="MojPregledModel.Checkup">
+        <MappingFragment StoreEntitySet="Checkup">
+          <ScalarProperty Name="checkup_id" ColumnName="checkup_id" />
+          <ScalarProperty Name="doctor_name" ColumnName="doctor_name" />
+          <ScalarProperty Name="therapy" ColumnName="therapy" />
+          <ScalarProperty Name="medicaments" ColumnName="medicaments" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Comments">
+      <EntityTypeMapping TypeName="MojPregledModel.Comment">
+        <MappingFragment StoreEntitySet="Comment">
+          <ScalarProperty Name="comment_id" ColumnName="comment_id" />
+          <ScalarProperty Name="comment1" ColumnName="comment" />
+          <ScalarProperty Name="comment_rate" ColumnName="comment_rate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Doctors">
+      <EntityTypeMapping TypeName="MojPregledModel.Doctor">
+        <MappingFragment StoreEntitySet="Doctor">
+          <ScalarProperty Name="doctor_id" ColumnName="doctor_id" />
+          <ScalarProperty Name="doctor_name" ColumnName="doctor_name" />
+          <ScalarProperty Name="doctor_surname" ColumnName="doctor_surname" />
+          <ScalarProperty Name="doctor_dateofbirh" ColumnName="doctor_dateofbirh" />
+          <ScalarProperty Name="doctor_city" ColumnName="doctor_city" />
+          <ScalarProperty Name="doctor_speciality" ColumnName="doctor_speciality" />
+          <ScalarProperty Name="doctor_phonenumber" ColumnName="doctor_phonenumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Hospitals">
+      <EntityTypeMapping TypeName="MojPregledModel.Hospital">
+        <MappingFragment StoreEntitySet="Hospital">
+          <ScalarProperty Name="hospital_id" ColumnName="hospital_id" />
+          <ScalarProperty Name="hospital_name" ColumnName="hospital_name" />
+          <ScalarProperty Name="hospital_address" ColumnName="hospital_address" />
+          <ScalarProperty Name="hospital_city" ColumnName="hospital_city" />
+          <ScalarProperty Name="number_of_doctors" ColumnName="number_of_doctors" />
+          <ScalarProperty Name="number_of_patients" ColumnName="number_of_patients" />
+          <ScalarProperty Name="capacity" ColumnName="capacity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Medicines">
+      <EntityTypeMapping TypeName="MojPregledModel.Medicine">
+        <MappingFragment StoreEntitySet="Medicines">
+          <ScalarProperty Name="medicines_id" ColumnName="medicines_id" />
+          <ScalarProperty Name="patient_name" ColumnName="patient_name" />
+          <ScalarProperty Name="doctor_name" ColumnName="doctor_name" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Patients">
+      <EntityTypeMapping TypeName="MojPregledModel.Patient">
+        <MappingFragment StoreEntitySet="Patient">
+          <ScalarProperty Name="patient_id" ColumnName="patient_id" />
+          <ScalarProperty Name="patient_name" ColumnName="patient_name" />
+          <ScalarProperty Name="patient_surname" ColumnName="patient_surname" />
+          <ScalarProperty Name="patient_dateofbirth" ColumnName="patient_dateofbirth" />
+          <ScalarProperty Name="patient_address" ColumnName="patient_address" />
+          <ScalarProperty Name="patient_phonenumber" ColumnName="patient_phonenumber" />
+          <ScalarProperty Name="patient_city" ColumnName="patient_city" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reminders">
+      <EntityTypeMapping TypeName="MojPregledModel.Reminder">
+        <MappingFragment StoreEntitySet="Reminder">
+          <ScalarProperty Name="reminder_id" ColumnName="reminder_id" />
+          <ScalarProperty Name="date_of_previous_checkup" ColumnName="date_of_previous_checkup" />
+          <ScalarProperty Name="date_of_next_checkup" ColumnName="date_of_next_checkup" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

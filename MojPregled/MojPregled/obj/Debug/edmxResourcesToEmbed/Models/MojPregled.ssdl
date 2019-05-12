@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MojPregledModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MojPregled.dbo.Checkup' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Checkup">
+    <Key>
+      <PropertyRef Name="checkup_id" />
+    </Key>
+    <Property Name="checkup_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="doctor_name" Type="varchar" MaxLength="50" />
+    <Property Name="therapy" Type="varchar" MaxLength="50" />
+    <Property Name="medicaments" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MojPregled.dbo.Comment' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Comment">
+    <Key>
+      <PropertyRef Name="comment_id" />
+    </Key>
+    <Property Name="comment_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="comment" Type="varchar" MaxLength="50" />
+    <Property Name="comment_rate" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MojPregled.dbo.Doctor' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Doctor">
+    <Key>
+      <PropertyRef Name="doctor_id" />
+    </Key>
+    <Property Name="doctor_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="doctor_name" Type="varchar" MaxLength="50" />
+    <Property Name="doctor_surname" Type="varchar" MaxLength="50" />
+    <Property Name="doctor_dateofbirh" Type="date" />
+    <Property Name="doctor_city" Type="varchar" MaxLength="50" />
+    <Property Name="doctor_speciality" Type="varchar" MaxLength="50" />
+    <Property Name="doctor_phonenumber" Type="numeric" Precision="18" Scale="0" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MojPregled.dbo.Hospital' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Hospital">
+    <Key>
+      <PropertyRef Name="hospital_id" />
+    </Key>
+    <Property Name="hospital_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="hospital_name" Type="varchar" MaxLength="50" />
+    <Property Name="hospital_address" Type="varchar" MaxLength="50" />
+    <Property Name="hospital_city" Type="varchar" MaxLength="50" />
+    <Property Name="number_of_doctors" Type="int" />
+    <Property Name="number_of_patients" Type="int" />
+    <Property Name="capacity" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MojPregled.dbo.Medicines' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Medicines">
+    <Key>
+      <PropertyRef Name="medicines_id" />
+    </Key>
+    <Property Name="medicines_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="patient_name" Type="varchar" MaxLength="50" />
+    <Property Name="doctor_name" Type="varchar" MaxLength="50" />
+    <Property Name="quantity" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MojPregled.dbo.Patient' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Patient">
+    <Key>
+      <PropertyRef Name="patient_id" />
+    </Key>
+    <Property Name="patient_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="patient_name" Type="varchar" MaxLength="50" />
+    <Property Name="patient_surname" Type="varchar" MaxLength="50" />
+    <Property Name="patient_dateofbirth" Type="date" />
+    <Property Name="patient_address" Type="varchar" MaxLength="50" />
+    <Property Name="patient_phonenumber" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="patient_city" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MojPregled.dbo.Reminder' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Reminder">
+    <Key>
+      <PropertyRef Name="reminder_id" />
+    </Key>
+    <Property Name="reminder_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="date_of_previous_checkup" Type="date" />
+    <Property Name="date_of_next_checkup" Type="date" />
+  </EntityType>
+  <EntityContainer Name="MojPregledModelStoreContainer">
+    <EntitySet Name="Checkup" EntityType="Self.Checkup" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Checkup].[checkup_id] AS [checkup_id], 
+    [Checkup].[doctor_name] AS [doctor_name], 
+    [Checkup].[therapy] AS [therapy], 
+    [Checkup].[medicaments] AS [medicaments]
+    FROM [dbo].[Checkup] AS [Checkup]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Comment" EntityType="Self.Comment" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Comment].[comment_id] AS [comment_id], 
+    [Comment].[comment] AS [comment], 
+    [Comment].[comment_rate] AS [comment_rate]
+    FROM [dbo].[Comment] AS [Comment]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Doctor" EntityType="Self.Doctor" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Doctor].[doctor_id] AS [doctor_id], 
+    [Doctor].[doctor_name] AS [doctor_name], 
+    [Doctor].[doctor_surname] AS [doctor_surname], 
+    [Doctor].[doctor_dateofbirh] AS [doctor_dateofbirh], 
+    [Doctor].[doctor_city] AS [doctor_city], 
+    [Doctor].[doctor_speciality] AS [doctor_speciality], 
+    [Doctor].[doctor_phonenumber] AS [doctor_phonenumber]
+    FROM [dbo].[Doctor] AS [Doctor]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Hospital" EntityType="Self.Hospital" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Hospital].[hospital_id] AS [hospital_id], 
+    [Hospital].[hospital_name] AS [hospital_name], 
+    [Hospital].[hospital_address] AS [hospital_address], 
+    [Hospital].[hospital_city] AS [hospital_city], 
+    [Hospital].[number_of_doctors] AS [number_of_doctors], 
+    [Hospital].[number_of_patients] AS [number_of_patients], 
+    [Hospital].[capacity] AS [capacity]
+    FROM [dbo].[Hospital] AS [Hospital]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Medicines" EntityType="Self.Medicines" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Medicines].[medicines_id] AS [medicines_id], 
+    [Medicines].[patient_name] AS [patient_name], 
+    [Medicines].[doctor_name] AS [doctor_name], 
+    [Medicines].[quantity] AS [quantity]
+    FROM [dbo].[Medicines] AS [Medicines]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Patient" EntityType="Self.Patient" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Patient].[patient_id] AS [patient_id], 
+    [Patient].[patient_name] AS [patient_name], 
+    [Patient].[patient_surname] AS [patient_surname], 
+    [Patient].[patient_dateofbirth] AS [patient_dateofbirth], 
+    [Patient].[patient_address] AS [patient_address], 
+    [Patient].[patient_phonenumber] AS [patient_phonenumber], 
+    [Patient].[patient_city] AS [patient_city]
+    FROM [dbo].[Patient] AS [Patient]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Reminder" EntityType="Self.Reminder" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Reminder].[reminder_id] AS [reminder_id], 
+    [Reminder].[date_of_previous_checkup] AS [date_of_previous_checkup], 
+    [Reminder].[date_of_next_checkup] AS [date_of_next_checkup]
+    FROM [dbo].[Reminder] AS [Reminder]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
